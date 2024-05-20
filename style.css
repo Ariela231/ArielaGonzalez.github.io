@@ -42,7 +42,15 @@
     font-style: normal;
   }
   
-
+.nombre{
+    display: flex;
+width: 268px;
+height: 95px;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+flex-shrink: 0;
+}
 
 body {
     font-family:"Martel Sans";

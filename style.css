@@ -1,57 +1,5 @@
  @import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@200;300;400;600;700;800;900&display=swap');
         
-.martel-sans-extralight {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 200;
-    font-style: normal;
-  }
-  
-  .martel-sans-light {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 300;
-    font-style: normal;
-  }
-  
-  .martel-sans-regular {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .martel-sans-semibold {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 600;
-    font-style: normal;
-  }
-  
-  .martel-sans-bold {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 700;
-    font-style: normal;
-  }
-  
-  .martel-sans-extrabold {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 800;
-    font-style: normal;
-  }
-  
-  .martel-sans-black {
-    font-family: "Martel Sans", sans-serif;
-    font-weight: 900;
-    font-style: normal;
-  }
-  
-.nombre{
-    display: flex;
-width: 268px;
-height: 95px;
-flex-direction: column;
-justify-content: center;
-align-items: flex-start;
-flex-shrink: 0;
-}
-
 body {
     font-family:"Martel Sans";
     margin: 0;

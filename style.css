@@ -1,3 +1,5 @@
+
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -44,7 +46,7 @@ nav a {
 .section {
     padding: 40px 20px;
     background-color: #fff;
-    margin-bottom: 20px;
+    margin: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
@@ -71,41 +73,4 @@ nav a {
 
 .small {
     grid-column: span 1;
-}
-
-.content-container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 20px;
-    align-items: center;
-}
-
-.image-placeholder {
-    background-color: #ddd;
-    border-radius: 10px;
-    width: 100%;
-    padding-bottom: 75%;
-}
-
-.text-container {
-    flex: 1;
-}
-
-.circle-placeholder {
-    background-color: #ddd;
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    margin-bottom: 20px;
-}
-
-.next-button {
-    background-color: #000;
-    color: #fff;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 20px;
-    display: block;
-    margin: 20px auto 0;
-    cursor: pointer;
 }
